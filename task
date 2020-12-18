@@ -1,6 +1,3 @@
-f_Payment
-f_CashCount
-t_InventoryMove
-t_InventoryMoveLine
 t_InventoryMoveConfirmation
 t_InventoryMoveConfirmationLine
+t_InvoiceVendorLine
